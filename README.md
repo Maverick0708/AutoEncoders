@@ -1,5 +1,5 @@
 # AutoEncoders
-The Ipynb file contains amd autoencoder implemented using Keras. The AutoEncoder takes 28*28 image and reduces it to a smaller size before reconstructung it. Below are the results
+The Ipynb file contains autoencoder implemented using Tensorflow, Keras. The AutoEncoder takes 28*28 image and reduces it to a smaller size before reconstructung it. Below are the results
 
 ## 25% Reduction
 
